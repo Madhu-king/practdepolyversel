@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import Due from './Components/Due'
 import './App.css';
 
